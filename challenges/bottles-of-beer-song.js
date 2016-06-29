@@ -22,3 +22,8 @@
 */
 
 // YOUR CODE HERE
+
+function bottles() {
+    } for(var i=100 ; i>=01;i-=1) {
+    console.log(i + " " + "bottles of beer on the wall" + "," + " " + i + " " + "bottles of beer!" + " " + "Take one down and pass it around," + " " + (i-1) + " " + "bottles of beer on the wall...")
+};
